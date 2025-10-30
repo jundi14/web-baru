@@ -21,7 +21,7 @@ Kemudian saya bilang, "*Iya Kak, soalnya kalau gambarnya dibuat sempurna nanti A
 
 "*Oohh...*" kata dia. Entah dia paham atau tidak kalimat saya barusan.
 
-Perkara foto tangannya ngga keliatan aja dia bilang hal yang serupa, 
+Perkara lihat buku dan ada sali -*karakter di buku anak*- dan foto tangannya ngga keliatan, dia bilang hal yang serupa, 
 
 "*Ayah..mana tangannya..*"
 
@@ -29,11 +29,11 @@ Perkara foto tangannya ngga keliatan aja dia bilang hal yang serupa,
 
 Anak saya suka sekali membaca buku, sejak awal kami membuat suasana rumah penuh dengan buku tanpa distraksi gadget. 
 
-Istri yang paling semangat untuk membeli buku hardcover yang isinya juga "hard" sehingga aman ketika halaman dibolak-balik oleh anak, jadi tidak mudah robek.
+Istri saya yang paling semangat ketika membeli buku hardcover yang isinya juga "hard" sehingga aman ketika halaman dibolak-balik oleh anak, jadi tidak mudah robek.
 
 Sampai usia 3 tahun di pertengahan oktober tahun ini, anak kami masih suka dibacakan buku hingga kadang kami kewalahan karena saat ini kami sudah punya putri kedua yang usianya terpaut 2 tahun kurang sedikit.
 
-Perasaan campur aduk antara senang, bingung, kadang sedikit kesal ketika anak kami meminta untuk membacakan buku di momen yang kurang pas, putri kedua kami sedang rewel misalnya, atau kami sedang mengerjakan sesuatu yang tidak bisa kami tinggalkan.
+Perasaan campur aduk antara senang, bingung, kadang sedikit kesal ketika anak kami selalu meminta membacakan buku di momen yang kurang pas, putri kedua kami sedang rewel misalnya, atau kami sedang mengerjakan sesuatu yang tidak bisa kami tinggalkan.
 
 Walaupun seperti itu, tetap ada kebanggaan buat kami sebagai orangtua, karena anak kami memiliki kosakata yang cukup banyak, saya rasa karena pada usia 2 tahun pertama sering sekali kami bacakan buku, jadi perbendaharaan katanya cukup melimpah.
 
@@ -41,5 +41,5 @@ Entahlah, apakah seusianya memang sudah seharusnya bisa mengucapkan kata-kata ya
 
 Kalau baca tulisan ini, berarti kamu juga suka membaca, karena blog ini juga isinya tulisan bukan? 😁
 
-(2/100)
+(2/100)\
 #100daystooffload 

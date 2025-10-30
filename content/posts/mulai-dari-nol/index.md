@@ -49,5 +49,5 @@ Selamat berkarya. Selamat menulis. 😁
 
 ##### *Ditulis saat hujan deras, nyaman untuk menarik selimut di atas kasur :)* 
 
-(1/100)
+(1/100)\
 #100daystooffload 
