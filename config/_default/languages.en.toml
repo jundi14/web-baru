@@ -1,0 +1,41 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Blog | Jundi Mubarok"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/circle-avatar-100px.png"
+  secondaryLogo = "img/circle-avatar-100px.png"
+  description = "Halo, saya Jundi. Blog ini tempat nongkrongnya cerita-cerita ringan, catatan random, dan hal-hal yang kadang penting… kadang juga nggak 😁"
+  copyright = "⚡by [Blowfish](https://blowfish.page). My opinions are my own"
+
+[params.author]
+   name = "Jundi Mubarok"
+   #email = "jundimubarok74@gmail.com"
+   image = "/img/circle-avatars-2.png"
+   imageQuality = 60
+   headline = "*Ngobrol Lewat Tulisan Ringan*"
+   bio = "Ngobrol Lewat Tulisan Ringan"
+   links = [
+      { bluesky = "https://bsky.app/profile/jundi.web.id" },
+      { threads = "https://www.threads.net/@jundi.mubarok" },
+      { telegram = "https://t.me/jundipost" }
+   ]
+
+#     { instagram = "https://instagram.com/jundi.mubarok" },
+#     { threads = "https://www.threads.net/@jundi.mubarok" },
+#     { email = "mailto:hello@your_domain.com" },
+#     { link = "https://link-to-some-website.com/" },
+#     { facebook = "https://facebook.com/jundipost" },
+#     { mastodon = "https://mastodon.instance/@username" },
+#     { medium = "https://medium.com/username" },
+#     { tiktok = "https://tiktok.com/@username" },
+#     { twitter = "https://twitter.com/username" },
+#     { x-twitter = "https://twitter.com/username" },
+#     { youtube = "https://youtube.com/username" },
+#     { ko-fi = "https://ko-fi.com/username" },
