@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>⚡by [Blowfish](https://blowfish.page). My opinions are my own</copyright>
-    <lastBuildDate>Mon, 27 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Kok Nggak Ada Matanya?</title>
+      <link>http://localhost:1313/posts/kok-nggak-ada-matanya/</link>
+      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/kok-nggak-ada-matanya/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/kok-nggak-ada-matanya/feature-kok-gada-matanya.jpg" />
+    </item>
     
     <item>
       <title>Mulai Dari Nol Yaa</title>

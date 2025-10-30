@@ -3,14 +3,13 @@ title: Mulai Dari Nol Yaa
 slug: Mulai Dari Nol Yaa
 date: 2025-10-27
 description: Blog menjadi salah satu cara untuk mencurahkan pikiran paling bebas yang pernah ada. Dari sini ide dan gagasan mulai berkembang
-categories: ["Coretan"]
+categories: Coretan
 tags: 
+    - 100daystooffload
 showComments: true
 showTableOfContents: false
 draft: false
 ---
-
-
 Saya pernah menulis di threads dengan menyemangati -*untuk diri sendiri pastinya*- untuk menulis setiap hari selama 100 hari berturut-turut.
 
 Mungkin kamu sudah bisa menebak masalah apa yang kedepannya paling mungkin terjadi. Ya, **konsistensi**.
@@ -50,4 +49,5 @@ Selamat berkarya. Selamat menulis. 😁
 
 ##### *Ditulis saat hujan deras, nyaman untuk menarik selimut di atas kasur :)* 
 
+(1/100)
 #100daystooffload 
