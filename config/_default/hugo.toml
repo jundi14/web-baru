@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "http://localhost:1313/"
+baseURL = "https://jundi.web.id"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
@@ -29,7 +29,7 @@ enableEmoji = true
 [sitemap]
   changefreq = 'daily'
   filename = 'sitemap.xml'
-  priority = 0.5
+  priority = 0.6
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
