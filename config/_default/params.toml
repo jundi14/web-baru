@@ -130,6 +130,9 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   cardView = false
   cardViewScreenWidth = false
 
+[fediverse]
+  content = "@jundimubarok@mastodon.social"
+
 [firebase]
   # apiKey = "XXXXXX"
   # authDomain = "XXXXXX"
