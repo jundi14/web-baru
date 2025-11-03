@@ -1,5 +1,5 @@
 ---
-title: Whatsapp Aplikasi Yang Paling Ingin Saya Hapus!
+title: Whatsapp, Aplikasi Yang Paling Ingin Saya Hapus!
 slug: aplikasi whatsapp
 date: 2025-11-02
 description: Karena nggak mungkin aplikasi ini saya hapus, dengan banyaknya pengguna whatsapp di Indonesia, sampai-sampai kalau ada yang nggak menggunakan whatsapp muncul pertanyaan
@@ -19,18 +19,19 @@ Karena nggak mungkin aplikasi ini saya hapus, dengan banyaknya pengguna whatsapp
 
 *"Kamu nggak punya whatsapp, kok bisa?"*
 
-Bisa saja kan ada orang yang ngga pake whatsapp, karena *circle*nya pengguna Iphone, jadi bisa pake iMessage atau aplikasi instant messaging lainnya.
+Bisa saja kan ada orang yang ngga pake whatsapp, karena *circle*nya user Iphone, jadi bisa pake iMessage atau aplikasi instant messaging lainnya.
 
 Masalahnya kadang whatsapp ini sinkron dengan aplikasi lain, misalnya mau daftar BPJS, kode OTP-nya dikirimkan ke whatsapp, notifikasi untuk perpanjang domain notifikasinya dikirim lewat whatsapp (walaupun dikirim ke email juga), pesan dari anggota keluarga, pesan dari rekan kerja. semuanya via whatsapp.
 
-Kalau saya sendiri sih pake telegram saja, selain untuk instant messaging bisa juga buat menyimpan file.
+Kalau saya sendiri sih maunya pake telegram saja, selain sebagai aplikasi pesan instan bisa difungsikan juga untuk penyimpanan file.
 
 Di whatsapp bisa nyimpen file juga kan tapi?
 
 Ya bisa, tapi..
 
-Tapi bikin penyimpanan bengkak smartphone yang penyimpanannya masih 32 Gb  
-"*Loh emang masih ada hp memori kecil begitu?".* Ada.. nih HP saya masih 32 Gb memori internalnya hehe.
+Tapi bikin penyimpanan bengkak buat smartphone yang penyimpanannya masih 32 Gb  
+"*Loh emang masih ada zaman ini hp dengan memori kecil begitu?".*\
+Ada...nih smartphone samsung saya masih 32 Gb memori internalnya hehe.
 
 Telegram beda lagi, file disimpen di cloud (penyimpanan awan) jadi ngga memberatkan memori internal kita dan ada opsi untuk menyimpan di memori eksternal kita, asik kan punya kebebasan?
 
