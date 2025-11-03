@@ -4,18 +4,24 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-10-29T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/kok-nggak-ada-matanya/</loc>
-    <lastmod>2025-10-29T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-11-02T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/aplikasi-whatsapp/</loc>
+    <lastmod>2025-11-02T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/kok-nggak-ada-matanya/</loc>
     <lastmod>2025-10-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
