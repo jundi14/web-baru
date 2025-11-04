@@ -136,12 +136,12 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
 # [advertisement]
 #  adsense = "pub-1028861450285140"
 
-[umamiAnalytics]
-  websiteid = "8ef10577-b611-458c-9a59-f67ef92ac7a5"
-  domain = "jundi.web.id"
-  dataDomains = ""
-  scriptName = ""
-  enableTrackEvent = true
+# [umamiAnalytics]
+  #websiteid = "8ef10577-b611-458c-9a59-f67ef92ac7a5"
+  #domain = "jundi.web.id"
+  #dataDomains = ""
+  #scriptName = ""
+  #enableTrackEvent = true
 
 [firebase]
   # apiKey = "XXXXXX"
