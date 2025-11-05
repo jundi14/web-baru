@@ -140,34 +140,25 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   #scriptName = ""
   #enableTrackEvent = true
 
-[firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+#[selineAnalytics]
+ # token = "120e3c0bfc5d1b7"
+ # enableTrackEvent = true
 
-[selineAnalytics]
-  token = "120e3c0bfc5d1b7"
-  enableTrackEvent = true
-
-[buymeacoffee]
+#[buymeacoffee]
   # identifier = ""
   # globalWidget = true
   # globalWidgetMessage = "Hello"
   # globalWidgetColor = "#FFDD00"
   # globalWidgetPosition = "right"
 
-[verification]
+#[verification]
   # google = ""
   # bing = ""
   # pinterest = ""
   # yandex = ""
   # fediverse = ""
 
-[rssnext]
+#[rssnext]
   # feedId = ""
   # userId = ""
 
