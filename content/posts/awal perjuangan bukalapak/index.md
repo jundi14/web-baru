@@ -4,7 +4,6 @@ slug: awal perjuangan bukalapak
 categories: Teknologi
 date: 2021-12-03
 tags:
-  - bukalapak
 aliases: '/posts/teknologi/awal-perjuangan-bukalapak'
 showTableOfContents: true
 showComments: true

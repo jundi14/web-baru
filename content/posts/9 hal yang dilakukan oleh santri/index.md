@@ -5,7 +5,6 @@ description: Hal hal yang saya alami selama menjadi santri
 categories: Coretan
 date: 2021-12-01
 tags:
-  - mondok
   - santri
 aliases: '/posts/coretan/9-hal-yang-dilakukan-oleh-santri/'
 showComments: true

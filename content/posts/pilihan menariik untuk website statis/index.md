@@ -5,7 +5,6 @@ description: Pilihan buat kamu yang ingin membuat website
 categories: Teknologi
 date: 2022-01-04
 tags:
-  - static
   - hugo
 showComments: true
 ---

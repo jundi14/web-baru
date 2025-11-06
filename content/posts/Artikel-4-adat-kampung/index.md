@@ -5,7 +5,6 @@ description:
 categories: Coretan 
 date: 2024-08-01
 tags: 
-    - 
 showComments: true
 showTableOfContents: true
 draft: true

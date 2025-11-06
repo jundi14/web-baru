@@ -5,8 +5,6 @@ description: Pilihan yang salah sangat tergantung pada pilihan kamu jika kamu me
 categories: Teknologi
 date: 2021-12-04
 tags:
-  - laptop
-  - pc
 showComments: true
 showTableOfContents: true
 ---

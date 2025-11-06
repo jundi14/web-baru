@@ -5,7 +5,6 @@ description: Fitur-fitur telegram yang sangat menarik
 categories: Teknologi
 date: 2021-11-23
 tags:
-  - telegram
 showComments: true
 showTableOfContents: true
 ---

@@ -5,8 +5,6 @@ description: Memberikan tingkat perlindungan yang besar dan penting bagi situs u
 categories: Blogging
 date: 2022-12-18
 tags:
-  - secure
-  - netlify
 aliases: '/posts/blogging/secure-header-di-netlify/'
 showComments: true
 showTableOfContents: false

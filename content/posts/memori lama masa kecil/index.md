@@ -5,7 +5,6 @@ description: Ngomong ngomong tentang pengalaman masa kecil nih, ada beberapa cer
 categories: Coretan
 date: 2021-11-27
 tags:
-  - masa kecil
 aliases: Memori Lama, Pengalaman Masa Kecil Yang Teringat Kembali
 showComments: true
 ---

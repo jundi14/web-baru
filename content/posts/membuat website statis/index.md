@@ -5,7 +5,6 @@ description: Setelah sekian lama menggunakan website dinamis akhirnya beralih ke
 categories: Blogging
 date: 2023-04-07
 tags:
-  - static
   - hugo
 aliases:
 showComments: true

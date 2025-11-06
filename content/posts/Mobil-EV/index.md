@@ -5,7 +5,6 @@ description: Kita ulas lebih dalam tentang fakta yang perlu kamu ketahui dari EV
 categories: Teknologi
 date: 2024-05-04
 tags:
-  - ev
 aliases:
 showComments: true
 showTableOfContents: true

@@ -5,7 +5,6 @@ description:
 categories: Teknologi
 date: 2024-11-03
 tags:
-  - contact
 showComments: true
 showTableOfContents: true
 draft: false

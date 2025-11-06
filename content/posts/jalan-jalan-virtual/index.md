@@ -5,7 +5,6 @@ description: Saat keuangan tidak mencukupi untuk bepergian ke berbagai negara, a
 categories: Teknologi
 date: 2023-08-26
 tags:
-  - virtual
 showComments: true
 showTableOfContents: true
 draft: false

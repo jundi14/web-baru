@@ -5,7 +5,7 @@ description: Kontrakan pindah!
 categories: Coretan
 date: 2022-09-18
 tags:
-- kontrakan
+  - kontrakan
 aliases: "/posts/coretan/kontrakan-pindah-tantangan-baru/"
 showComments: true
 

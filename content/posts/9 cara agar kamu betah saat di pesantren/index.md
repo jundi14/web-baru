@@ -7,7 +7,6 @@ description:
 categories: Coretan
 date: 2021-11-30
 tags:
-  - pondok
   - santri
 aliases: '/posts/coretan/cara-agar-betah-di-pesantren/'
 showComments: true

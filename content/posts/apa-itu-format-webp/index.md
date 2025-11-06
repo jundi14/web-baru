@@ -5,7 +5,6 @@ description: Format WebP pada gambar menjadi alternatif untuk gambar di sebuah w
 categories: Blogging
 date: 2023-11-14
 tags:
-  - format
 showComments: true
 showTableOfContents: true
 draft: false

@@ -5,7 +5,6 @@ categories: Coretan
 description: Pengalaman pertama servis motor di planet ban, apakah lebih baik dibandingkan servis di bengkel resmi?
 date: 2023-10-28
 tags:
-  - servis
 showComments: true
 showTableOfContents: true
 draft: false

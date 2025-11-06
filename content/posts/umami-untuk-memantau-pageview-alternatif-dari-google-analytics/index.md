@@ -5,8 +5,6 @@ description: Umami, alternatif google analitik yang sederhana, lebih ringan dan 
 categories: Blogging
 date: 2023-08-24
 tags:
-  - analitik
-aliases:
 showComments: true
 showTableOfContents: true
 draft: false

@@ -5,7 +5,6 @@ date: 2023-01-01
 description: Website yang membuat prediksi masa depan bumi pada tahun 2030-2050, bagaimanakah penampakannya?
 categories: Teknologi
 tags:
-  - prediksi
 showComments: true
 showTableOfContents: true
 draft: false

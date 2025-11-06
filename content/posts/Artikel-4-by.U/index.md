@@ -5,7 +5,6 @@ description: Kartu by.U memiliki masa aktif tanpa batas yang masih dalam naungan
 categories: Teknologi
 date: 2024-09-05
 tags:
-  -
 showComments: true
 showTableOfContents: true
 draft: false

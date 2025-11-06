@@ -5,7 +5,6 @@ description:
 categories: Teknologi
 date: 2024-02-12
 tags: 
-    -
 aliases: 
 showComments: true
 showTableOfContents: true

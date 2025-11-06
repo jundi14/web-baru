@@ -5,7 +5,6 @@ description: Cara untuk mengatur bandwidth windows
 categories: Teknologi
 date: 2021-11-25
 tags:
-  - bandwith
 aliases: '/posts/aliases/cara-untuk-mengatur-bandwidth-windows/'
 showComments: true
 ---

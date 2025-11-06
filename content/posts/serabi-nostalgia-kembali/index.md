@@ -5,7 +5,6 @@ description: Serabi merupakan makanan tradisional yang nikmat dan murah dimasak 
 categories: Coretan
 date: 2024-10-28
 tags:
-  - kuliner
 showComments: true
 showTableOfContents: true
 draft: false

@@ -5,7 +5,6 @@ description: Kelebihan telegram dibandingkan whatsapp yang perlu kamu ketahui
 categories: Teknologi
 date: 2021-11-21
 tags:
-  - telegram
 aliases: '/posts/teknologi/kelebihan-telegram-dibandingkan-whatsapp/'
 showComments: true
 showTableOfContents: true

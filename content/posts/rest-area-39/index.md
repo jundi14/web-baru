@@ -5,7 +5,6 @@ description: Tidak pernah terpikir sebelumnya, ternyata rest area merupakan loka
 categories: Coretan
 date: 2024-11-28
 tags:
-  -
 showComments: true
 showTableOfContents: true
 draft: false

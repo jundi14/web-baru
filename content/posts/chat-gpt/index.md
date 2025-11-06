@@ -5,7 +5,6 @@ description: Dalam beberapa kasus bisa membantu dalam mengerjakan beberapa hal, 
 categories: Teknologi
 date: 2022-12-20
 tags:
-  - ai
 aliases:
   - '/posts/teknologi/apa-itu-chat-gpt/'
   - '/posts/teknologi/chat-gpt-besutan-open-ai/'

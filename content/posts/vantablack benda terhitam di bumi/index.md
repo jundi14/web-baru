@@ -4,8 +4,6 @@ slug: benda terhitam di bumi
 categories: Teknologi
 date: 2021-12-02
 tags:
-  - bmw
-  - black
 showComments: true
 showTableOfContents: true
 ---

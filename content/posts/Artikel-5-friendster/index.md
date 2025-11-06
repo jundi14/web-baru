@@ -5,7 +5,6 @@ description: Media sosial friendster kembali lagi setelah lama ditinggalkan, aka
 categories: Teknologi
 date: 2024-10-10
 tags:
-  - media sosial
 showComments: true
 showTableOfContents: false
 draft: false

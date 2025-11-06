@@ -5,7 +5,6 @@ description: Saat pertama kali ingin membuat website pilihan ada pada blogspot d
 categories: Coretan
 date: 2024-06-11
 tags:
-  - static
   - hugo
 showComments: true
 showTableOfContents: true

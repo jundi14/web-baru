@@ -5,7 +5,6 @@ description: Cinta ayahmu kepada luar biasa, tetapi banyak disimpan dalam hati k
 categories: Coretan
 date: 2021-11-28
 tags:
-  - ayah
 showComments: true
 ---
 

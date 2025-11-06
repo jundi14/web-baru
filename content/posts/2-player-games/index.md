@@ -5,7 +5,6 @@ description: Game sederhana tapi tetap menarik dan bikin ketagihan karena berisi
 categories: Teknologi
 date: 2024-06-05
 tags:
-  - games
 aliases:
 showComments: true
 showTableOfContents: true

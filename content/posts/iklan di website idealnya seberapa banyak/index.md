@@ -5,7 +5,6 @@ description: Tidak usah terlalu banyak, utamakan kenyaman saat membaca tulisanmu
 categories: Blogging
 date: 2022-12-02
 tags:
-  - Iklan
 aliases: '/posts/blogging/berapa-banyak-jumlah-iklan-yang-ideal/'
 showComments: true
 ---
