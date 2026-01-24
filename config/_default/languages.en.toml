@@ -24,10 +24,9 @@ title = "Blog | Jundi Mubarok"
    links = [
       { bluesky = "https://bsky.app/profile/jundi.web.id" },
       { threads = "https://www.threads.net/@jundi.mubarok" },
-      { mastodon = "https://mastodon.social/@jundimubarok"},
       { telegram = "https://t.me/jundipost" }
    ]
-
+#     { mastodon = "https://mastodon.social/@jundimubarok"},
 #     { instagram = "https://instagram.com/jundi.mubarok" },
 #     { threads = "https://www.threads.net/@jundi.mubarok" },
 #     { email = "mailto:hello@your_domain.com" },
