@@ -22,7 +22,7 @@ title = "Blog | Jundi Mubarok"
    headline = "*Ngobrol Lewat Tulisan Ringan*"
    bio = "Ngobrol Lewat Tulisan Ringan"
    links = [
-      { bluesky = "https://bsky.app/profile/jundi.web.id" },
+      { instagram = "https://instagram.com/jundi.mubarok" },
       { threads = "https://www.threads.net/@jundi.mubarok" },
       { telegram = "https://t.me/jundipost" }
    ]
