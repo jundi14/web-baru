@@ -24,7 +24,8 @@ title = "Blog | Jundi Mubarok"
    links = [
       { instagram = "https://instagram.com/jundi.mubarok" },
       { threads = "https://www.threads.net/@jundi.mubarok" },
-      { telegram = "https://t.me/jundipost" }
+      { telegram = "https://t.me/jundipost" },
+      { link = "https://www.nihbuatjajan.com/jundi" }
    ]
 #     { mastodon = "https://mastodon.social/@jundimubarok"},
 #     { instagram = "https://instagram.com/jundi.mubarok" },
