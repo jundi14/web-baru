@@ -13,27 +13,25 @@ showComments: false
 
 ## Siapa Saya
 
-Halo nama saya Jundi, dan saya senang kamu mampir ke halaman ini.
+Halo! Kenalan lebih dekat dengan Jundi, yuk.
 
-Mari kita mulai dengan beberapa fakta menarik (atau setidaknya, saya harap kamu menemukannya menarik) tentang saya.
+​Siapa Saya
+Hai, saya Jundi! Terima kasih ya sudah mampir ke sini.
 
-Dalam keseharian, saya bekerja sebagai Operator Sekolah.
+​Kalau ditanya apa kesibukan saya, sehari-hari saya bekerja sebagai Operator Sekolah. Tapi di waktu luang, saya punya hobi yang cukup spesifik: ngulik website! Saya jatuh cinta dengan konsep static website. 
 
-Saya sangat menyukai bidang yang berkaitan tentang website (sampai saat ini saya masih belajar, hanya tertarik!).
+Blog yang sedang Anda baca ini menggunakan Hugo. Kenapa? Karena saya suka yang cepat, ringan, dan nggak ribet. 
 
-Saya memiliki ketertarikan di dunia website statis, sampai saat ini saya menggunakan layanan dari Hugo yang cepat tanpa harus memuat database.
+Saya hanya ingin berbagi cerita lewat artikel tanpa harus membebani server dengan fitur-fitur yang sebenarnya tidak saya butuhkan.
 
-Karena kebutuhan saya hanya mempublish artikel ringan tanpa harus menggunakan fitur khusus ataupun plugin yang memberatkan server.
+​###Cerita di Balik Blog Ini
+Bagi saya, bisa merilis blog statis seperti ini adalah kebanggaan tersendiri. Memang tantangannya lumayan, karena rata-rata panduannya masih bahasa Inggris dan komunitasnya di Indonesia belum sebesar platform lain. Tapi justru di situ serunya!
 
-Sehingga menggunakan hugo dengan bantuan dokumentasi tema maupun tutorial di internet sudah cukup bagi saya membuat blog sederhana, tanpa embel-embel fitur yang kurang begitu penting.
+​###Menulis dengan Hati
+Saya percaya bahwa belajar itu nggak ada habisnya. Setelah memahami teknis web, saya pun mendalami dunia kepenulisan melalui Impactful Writing. Sertifikat yang saya dapatkan adalah pengingat bahwa setiap kata yang saya tulis di sini punya tanggung jawab untuk menginspirasi Anda.
 
-## Langkah Awal
-
-Saya rasa launchingnya website ini sebuah menjadi prestasi tersendiri buat saya, karena ini berbeda dengan kebanyakan website lainnya yang bersifat dinamis terutama website personal di Indonesia, berbeda dengan luar indonesia sudah banyak sekali yang menggunakan website statis sebagai website personal mereka.
-
-Kenapa seperti itu?
-
-Ya karena dokumentasi di semua website statis berbahasa inggris seluruhnya dan tidak banyak yang menuliskan tutorial secara lengkap dan mendetail tentang website statis dalam bahasa Indonesia.
+​###Dukung Blog Ini
+Blog ini hidup dari semangat saya dan dukungan teman-teman semua. Kalau kamu suka dengan apa yang saya bagikan, kamu bisa kasih "semangat tambahan" lewat donasi di Saweria. Setiap dukungan kecil darimu sangat berarti bagi saya!
 
 ## Langkah Selanjutnya
 
