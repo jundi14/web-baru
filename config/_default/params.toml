@@ -1,5 +1,5 @@
 colorScheme = "cyan"
-defaultAppearance = "dark" # valid options: light or dark
+defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = true
 
 enableA11y = false

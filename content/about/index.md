@@ -28,10 +28,6 @@ Saya hanya ingin berbagi cerita lewat artikel tanpa harus membebani server denga
 
 Bagi saya, bisa merilis blog statis seperti ini adalah kebanggaan tersendiri. Memang tantangannya lumayan, karena rata-rata panduannya masih bahasa Inggris dan komunitasnya di Indonesia belum sebesar platform lain. Tapi justru di situ serunya!
 
-### ​Menulis dengan Hati
-
-Saya percaya bahwa belajar itu nggak ada habisnya. Setelah memahami teknis web, saya pun mendalami dunia kepenulisan melalui Impactful Writing. Sertifikat yang saya dapatkan adalah pengingat bahwa setiap kata yang saya tulis di sini punya tanggung jawab untuk menginspirasi Anda.
-
 ### Langkah Selanjutnya: Menulis dengan Hati
 
 Bagi saya, teknologi hanyalah sebuah wadah. Isinya? Tentu saja kata-kata.
@@ -53,11 +49,10 @@ Jika Anda merasa tulisan saya bermanfaat atau sekadar ingin memberi semangat, An
 Terima kasih sudah mampir!
 
 Dukung saya disini {{<alert "mug-hot">}}
-Dukung saya di [Nihbuatjajan](https://nihbuatjajan.com/jundi)
+Dukung saya di [nihbuatjajan](https://nihbuatjajan.com/jundi)
 {{</alert>}}
 
 Salam hangat,
-
 Jundi
 
 ---
