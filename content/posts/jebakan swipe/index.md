@@ -8,7 +8,7 @@ tags:
     - 100daystooffload
 showComments: true
 showTableOfContents: false
-draft: true
+draft: false
 ---
 
 Pernahkah kamu membuka HP hanya untuk mengecek satu notifikasi penting, tapi tanpa sadar setengah jam berlalu begitu saja? Niatnya cek WhatsApp, tapi malah "nyasar" ke aplikasi belanja online, ujung-ujungnya sedang menimbang-nimbang apakah harus _check out_ _waist bag_ yang sudah lama diidamkan.
