@@ -24,44 +24,46 @@ Blog yang sedang Anda baca ini menggunakan Hugo. Kenapa? Karena saya suka yang c
 
 Saya hanya ingin berbagi cerita lewat artikel tanpa harus membebani server dengan fitur-fitur yang sebenarnya tidak saya butuhkan.
 
-​###Cerita di Balik Blog Ini
+### Cerita di Balik Blog Ini
+
 Bagi saya, bisa merilis blog statis seperti ini adalah kebanggaan tersendiri. Memang tantangannya lumayan, karena rata-rata panduannya masih bahasa Inggris dan komunitasnya di Indonesia belum sebesar platform lain. Tapi justru di situ serunya!
 
-​###Menulis dengan Hati
+### ​Menulis dengan Hati
+
 Saya percaya bahwa belajar itu nggak ada habisnya. Setelah memahami teknis web, saya pun mendalami dunia kepenulisan melalui Impactful Writing. Sertifikat yang saya dapatkan adalah pengingat bahwa setiap kata yang saya tulis di sini punya tanggung jawab untuk menginspirasi Anda.
 
-​###Dukung Blog Ini
-Blog ini hidup dari semangat saya dan dukungan teman-teman semua. Kalau kamu suka dengan apa yang saya bagikan, kamu bisa kasih "semangat tambahan" lewat donasi di Saweria. Setiap dukungan kecil darimu sangat berarti bagi saya!
+### Langkah Selanjutnya: Menulis dengan Hati
 
-## Langkah Selanjutnya
+Bagi saya, teknologi hanyalah sebuah wadah. Isinya? Tentu saja kata-kata.
 
-Beberapa waktu lalu saya baru saja menyelesaikan pembelajaran daring di **[impactfulwriting](https://certifiedimpactfulwriter.com)** dan saya berhasil mendapatkan sertifat pertama saya di dunia kepenulisan.
+Beberapa waktu lalu, saya memutuskan untuk melangkah lebih jauh dengan menyelesaikan pembelajaran daring di **[impactfulwriting](https://certifiedimpactfulwriter.com)**. Hasilnya? Saya berhasil mengantongi sertifikat pertama saya di dunia kepenulisan!
 
 ![Sertifikat Kepenulisan Impactful Writing](./Sertifikat-CIW-Batch-26.png)
 
-Ini adalah langkah awal yang baik buat saya untuk terus belajar mendalami ilmu di dunia kepenulisan.
+Ini bukan sekadar pencapaian di atas kertas, melainkan janji saya kepada diri sendiri (dan Anda sebagai pembaca) untuk terus mengasah kemampuan dalam merangkai kalimat. Saya ingin setiap tulisan di blog ini tidak hanya sekadar lewat, tapi bisa meninggalkan kesan dan dampak positif.
 
-## Kesimpulan
+### Kesimpulan
 
-Sekarang setelah kamu tahu sedikit tentang saya, saya berharap bisa mengetahui lebih banyak tentang kamu!
+Nah, sekarang Anda sudah sedikit mengenal siapa saya. Tapi, sebuah blog tidak akan hidup tanpa interaksi, jadi saya sangat berharap bisa mengenal Anda juga melalui kolom komentar atau kontak yang tersedia!
 
-Blog ini sepenuhnya dibiayai sendiri, dan mengandalkan kemurahan hati para pembaca untuk menjaga semuanya tetap aktif.
+Perlu diketahui, blog ini dikelola dan dibiayai sepenuhnya secara mandiri. Saya sangat mengandalkan dukungan tulus dari para pembaca untuk menjaga dapur "digital" ini tetap mengepul.
 
-Jika kamu ingin mendukung blog ini, kamu dapat memberikan donasi satu kali atau berulang.\
-Terimakasih!
-{{<alert "mug-hot">}}
-Dukung saya di [Saweria](https://saweria.co/jundimubarok)
+Jika Anda merasa tulisan saya bermanfaat atau sekadar ingin memberi semangat, Anda bisa memberikan apresiasi dalam bentuk donasi (sekali saja atau rutin). Dukungan sekecil apa pun sangat berarti untuk kelangsungan blog ini.
+
+Terima kasih sudah mampir!
+
+Dukung saya disini {{<alert "mug-hot">}}
+Dukung saya di [Nihbuatjajan](https://nihbuatjajan.com/jundi)
 {{</alert>}}
 
-Salam hangat,\
-**Jundi**
+Salam hangat,
+
+Jundi
 
 ---
 
 [![CO₂ Shield](https://img.shields.io/badge/CO₂-A_0.10g-20AE69)](https://overbrowsing.com/projects/co2-shield)
 
 ![](./Written-By-Human-Not-By-AI-Badge-white.svg)
-
-<left><a href="https://512kb.club" target="_blank"><img src="https://512kb.club/assets/images/blue-team.svg" alt="a proud member of the blue team of 512KB club" /></a></left>
 
 <left><p>👻 Proud Member of <a href="https://darktheme.club/">darktheme.club</a> 👻</p></left>
